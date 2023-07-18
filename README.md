@@ -1,6 +1,6 @@
 # Hakgyoansim Santteutbatang
 
-[Visit Source](https://copyright.keris.or.kr/wft/fntDwnld)
+[Visit Source](https://copyright.keris.or.kr/idx)
 
 &nbsp;
 
