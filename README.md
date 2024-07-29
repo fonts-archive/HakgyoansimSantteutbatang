@@ -6,7 +6,7 @@
 
 ## 웹 폰트
 
-사용하는 `font-family`의 이름은 `https://copyright.keris.or.kr/idx`입니다.
+사용하는 `font-family`의 이름은 `Hakgyoansim Santteutbatang`입니다.
 
 ### HTML
 
